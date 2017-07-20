@@ -1375,7 +1375,7 @@
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #23867b url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1493,7 +1493,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #e97770 !important;
+		color: #23867b !important;
 	}
 
 		.feature-list h3:before {
@@ -1569,13 +1569,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #23867b url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #23867b url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -1744,7 +1744,7 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #23867b;
 		}
 
 /* Copyright */
